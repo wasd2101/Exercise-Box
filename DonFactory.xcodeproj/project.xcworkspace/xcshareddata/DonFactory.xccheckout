@@ -10,31 +10,31 @@
 	<string>DonFactory</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9D7EC21DE12603128B686D0AA3347391DEFFB418</key>
-		<string>https://github.com/slamdon/learn-IOS.git</string>
+		<key>13367C593DB4055D41312252BB6CD923E1FD2FA1</key>
+		<string>https://github.com/slamdon/Exercise-Box.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DonFactory1.1/DonFactory.xcodeproj</string>
+	<string>DonFactory.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9D7EC21DE12603128B686D0AA3347391DEFFB418</key>
-		<string>../../..</string>
+		<key>13367C593DB4055D41312252BB6CD923E1FD2FA1</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/slamdon/learn-IOS.git</string>
+	<string>https://github.com/slamdon/Exercise-Box.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9D7EC21DE12603128B686D0AA3347391DEFFB418</string>
+	<string>13367C593DB4055D41312252BB6CD923E1FD2FA1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9D7EC21DE12603128B686D0AA3347391DEFFB418</string>
+			<string>13367C593DB4055D41312252BB6CD923E1FD2FA1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>IOS-GitHub</string>
+			<string>Exercise-Box</string>
 		</dict>
 	</array>
 </dict>
